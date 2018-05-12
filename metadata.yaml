@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36008'
     url: http://www.gutenberg.org/2009/agents/36008
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32731#Sube-Cane
 gutenberg_issued: '2010-06-07'
 gutenberg_type: Text
 identifiers:
