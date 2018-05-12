@@ -1,0 +1,30 @@
+_repo: Sube-Cane_32731
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32731-h/images/illus-cover.jpg
+creator:
+  author:
+    agent_name: Partridge, Bellamy
+    alias: Partridge, Edward Bellamy
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '36008'
+    url: http://www.gutenberg.org/2009/agents/36008
+description: ''
+gutenberg_issued: '2010-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32731'
+  lccn: '17013316'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Manners and customs -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+title: Sube Cane
+url: http://www.gutenberg.org/ebooks/32731
